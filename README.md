@@ -26,7 +26,7 @@ Ich bringe [Anzahl] Jahre Erfahrung in [Bereich] mit und bin stets auf der Suche
 
 ## 🛠️ My Technical expertise
 
-Nutze ich täglich im Job und Privat
+Aktuelle Software Verwendung
 
 | Bereich | 🔑 Tools | 
 | :--- | :--- |
