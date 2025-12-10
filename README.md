@@ -1,14 +1,14 @@
-# 🌟 Mein Digitales Portfolio
+  🌟 Mein Digitales Portfolio
 
 <div align="center">
-    <img src="[LINK ZU IHREM PROFILBILD]" width="150px;" alt="Ihr Name" style="border-radius:50%; border: 4px solid #007ACC;"/>
+    <img src="https://media.licdn.com/dms/image/v2/D4D03AQEbklM5ifn9zA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1689193569922?e=1767225600&v=beta&t=FZpjRveVfPY6q0ZkLnbgvQz2-1lg2wht4gnR2givhRA" width="150px;" alt="Gruber Bernd" style="border-radius:50%; border: 4px solid #007ACC;"/>
     <br/>
     
-    ## 👋 Hallo und Willkommen auf meiner seite.
-    Mein Name ist Gruber Bernd und arbeite in der IT
+      👋 Hallo und Willkommen auf meiner seite.
+    Mein Name ist Bernd Gruber, und ich will Ihnen hier einen kleinen Einblick in meine IT Kenntnisse geben
     
     <p>
-        **[Ihre Hauptrolle/Ihr Fachgebiet]** | 📍 [Ihr Standort]
+        **"IT-Systemtechniker** | 📍 Salzburg / Pinzgau / Pongau
     </p>
 </div>
 
@@ -16,7 +16,9 @@
 
 ## 💻 Über mich
 
-Ich bin ein **[Ihre Hauptrolle/Ihr Fachgebiet, z.B. Full-Stack Developer | Data Scientist | UX/UI Designer]** mit einer tiefen Leidenschaft für [Ihre Kerninteressen]. Mein Fokus liegt darauf, **performante, wartbare und benutzerzentrierte Lösungen** zu entwickeln.
+Ich bin ausgebildeter IT-Systemtechniker und aktuell arbeite ich im IT-Servicedesk im 1st Level mit Projektbeteiligung siehe Projekte und Schwerpunkte |
+Habe eine starke Leidenschaft für KI Promting und AI Agent Erstellung, habe hierzu mehrer Kurse belegt und meine privaten AI Agnets erstellt. Weiters interessiere ich mich sehr für Digitalisierung im Bereich Azure und Intune                                            
+Mein Fokus liegt darauf, **in meiner derzeitigen Tätigkeit als IT Servicedesk / Support die bestmögliche Lösung bei jeglichen IT Problemen zu finden** Weiters nutze ich meien freie Zeit und die Abende gerne dazu mich in mehreren Bereichen der IT weiterzubilden
 
 Ich bringe [Anzahl] Jahre Erfahrung in [Bereich] mit und bin stets auf der Suche nach der nächsten technologischen Herausforderung.
 
@@ -24,26 +26,26 @@ Ich bringe [Anzahl] Jahre Erfahrung in [Bereich] mit und bin stets auf der Suche
 
 ## 🛠️ Meine Tech-Stack-Schwerpunkte
 
-Die Werkzeuge, die ich täglich verwende, um Ideen zum Leben zu erwecken:
+Nutze ich täglich im Job und Privat
 
 | Kategorie | 🔑 Schlüsseltechnologien |
 | :--- | :--- |
-| **Frontend** | ⚛️ [React/Vue/Angular], 💡 [JavaScript/TypeScript], 🎨 [HTML5/CSS3], 💅 [Tailwind CSS/SASS] |
-| **Backend** | 🐍 [Python/Node.js/Java], ⚙️ [Django/Express.js/Spring Boot], 📡 [REST APIs/GraphQL] |
-| **Datenbanken** | 🐘 [PostgreSQL/MySQL], 🍃 [MongoDB], ⚡ [Redis] |
-| **Cloud & DevOps** | 🐳 [Docker], ☁️ [AWS/Azure/Google Cloud], 🔄 [Git/GitHub Actions] |
+| **Service Tools für Enduser** | ServiceNow Ticketsystem, BeyondTrust Remote Tool, 
+| **Microsoft** | Microsoft 365 Enterprise und Standard Apps |
+| **Server / Cloud** | Active Directiory, Remotedesktopverbindung zu Windows Server, |
+| **Assetmanagement** | ServiceNow |
 
 ---
 
 ## 🚀 Ausgewählte Projekte (Highlights)
 
-Diese Projekte demonstrieren am besten meine Fähigkeiten in [Bereich 1] und [Bereich 2].
+Diese Projekte demonstrieren am besten mein Angagement über meinen Tätigkeitsbereich hinaus und meine Fähigkeiten in der Welt der IT
 
-### 1. ✨ [Projektname 1]
-* **Ziel:** [Ein Satz über das Ziel/Problem, das gelöst wurde]
-* **Technologien:** [React] | [Node.js] | [PostgreSQL]
-* **Repo:** [Link zur Projekt-Repository]
-* **Live-Demo:** [Link zur Live-Anwendung]
+### 1. ✨ Windows 11 Rollout in der Region AUT 
+* **Ziel:** ca. 600 Clients mittels Upgrade Paket auf Windows 11 umstellen
+* **Taätigekeiten** Planung, Fehlerbehebung, Fehlerrecherche, Dokumentation, Vorlagen, Installationsanleitung für Enduaser
+* **On Top** Die Region Österreich mit ca 600 Clients war die erste Region von DACH --> all meine Vorlagen, Fehlerbeerichte, Lösungsansätze. Info Mail, Installationsanleitung wurde für das Rollout der anderen Regionen verwendet
+* **Live-Demo:** 
 
 ### 2. 📊 [Projektname 2]
 * **Ziel:** [Ein Satz über das Ziel/Problem, das gelöst wurde]
@@ -56,8 +58,8 @@ Diese Projekte demonstrieren am besten meine Fähigkeiten in [Bereich 1] und [Be
 
 Ich bin offen für neue Kooperationen und spannende Diskussionen!
 
-* 📧 **E-Mail:** [Ihre E-Mail-Adresse]
-* 💼 **LinkedIn:** [Link zu Ihrem LinkedIn-Profil]
+* 📧 **E-Mail:** bootnet_bernd@outlook.de
+* 💼 **LinkedIn:** www.linkedin.com/in/bernd-gruber-778908272
 * 📸 **Instagram:** [Link zu Ihrem Instagram-Profil]
 * 🌐 **Persönliche Website (optional):** [Link zu Ihrer persönlichen Portfolio-Webseite]
 
