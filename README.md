@@ -28,12 +28,22 @@ Ich bringe [Anzahl] Jahre Erfahrung in [Bereich] mit und bin stets auf der Suche
 
 Nutze ich täglich im Job und Privat
 
-| Kategorie | 🔑 Schlüsseltechnologien |
+| Bereich | 🔑 Tools | 
 | :--- | :--- |
-| **Service Tools für Enduser** | ServiceNow Ticketsystem, BeyondTrust Remote Tool, 
+| **Service Tools für Enduser** | ServiceNow Ticketsystem, BeyondTrust Remote Tool, |
 | **Microsoft** | Microsoft 365 Enterprise und Standard Apps |
 | **Server / Cloud** | Active Directiory, Remotedesktopverbindung zu Windows Server, |
 | **Assetmanagement** | ServiceNow |
+
+
+Zertifikate und Weitebildung
+
+| Bereich | 🔑 Zertifikate, Bescheinigungen  |
+| :--- | :--- |
+| **Azure AZ-104** | Zertifikats ID |
+| **Powershell** | Schulungs ID und Zertifikate LinkedIN |
+| **Python** | Schulungs ID und Zertifikate LinkedIN |
+| **KI / AI** | CahtGPT - Agent Erstellung und Promting | Micrososft Copilot Zertifikat | Linked IN Zertifikate | Schulungs ID Udemy
 
 ---
 
@@ -47,10 +57,15 @@ Diese Projekte demonstrieren am besten mein Angagement über meinen Tätigkeitsb
 * **On Top** Die Region Österreich mit ca 600 Clients war die erste Region von DACH --> all meine Vorlagen, Fehlerbeerichte, Lösungsansätze. Info Mail, Installationsanleitung wurde für das Rollout der anderen Regionen verwendet
 * **Live-Demo:** 
 
-### 2. 📊 [Projektname 2]
-* **Ziel:** [Ein Satz über das Ziel/Problem, das gelöst wurde]
+### 2. 📊 Mitarbeiter Einschulungen im Bereich IT
+* **Tätigkeit** Verantwortlicher: Einweisung und Betreuung von Praktikanten, Einschulung von IT-Mitarbeitern und Betreuung in der ersten Eingewöhnungszeit 
 * **Technologien:** [Python] | [Django] | [AWS S3]
 * **Repo:** [Link zur Projekt-Repository]
+
+### 3. Asset Management / Client Managemnt / MDM Intune
+* **Tätigkeit** Installation der Client (PXE), Inventarisierung, Problembehebung, Upgrade von RAM und Speicher inkl. Bestellung dieverser Hardware
+* **Technologien:** [Python] | [Django] | [AWS S3]
+* **MDM** Einrichtung Smartphones, Hilfestellung bei Problemen jeglicher Art bei Smartphones der Enduser
 
 ---
 
