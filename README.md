@@ -24,7 +24,7 @@ Ich bringe [Anzahl] Jahre Erfahrung in [Bereich] mit und bin stets auf der Suche
 
 ---
 
-## 🛠️ My Technical expertise
+## 🛠️ My Technical skills 
 
 Aktuelle Software Verwendung
 
@@ -32,8 +32,10 @@ Aktuelle Software Verwendung
 | :--- | :--- |
 | **Service Tools für Enduser** | ServiceNow Ticketsystem, BeyondTrust Remote Tool, |
 | **Microsoft** | Microsoft 365 Enterprise inkl zugehörigen Apps | 
-| **Server / Cloud** | Active Directiory, Remotedesktopverbindung - Windows Server,  |
-| **Assetmanagement** | ServiceNow |
+| **Windows Server 2022 / Azure Cloud** | Active Directiory Verwaltung,Useranlage Remotedesktopverbindung - Windows Server,  |
+| **Assetmanagement** | ServiceNow | Inventarisierung, Print Server, 
+| **Citrix** | Workplace, 
+| **Applications** | Installation diverser Software, Einrichtung Und Lizenzierung diverser Software
 
 ---
 
