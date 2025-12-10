@@ -4,7 +4,8 @@
     <img src="[LINK ZU IHREM PROFILBILD]" width="150px;" alt="Ihr Name" style="border-radius:50%; border: 4px solid #007ACC;"/>
     <br/>
     
-    ## 👋 Willkommen! Ich bin [Ihr Name]
+    ## 👋 Hallo und Willkommen auf meiner seite.
+    Mein Name ist Gruber Bernd und arbeite in der IT
     
     <p>
         **[Ihre Hauptrolle/Ihr Fachgebiet]** | 📍 [Ihr Standort]
