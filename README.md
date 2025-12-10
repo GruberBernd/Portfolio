@@ -43,7 +43,9 @@ Zertifikate und Weitebildung
 | **Azure AZ-104** | Zertifikats ID |
 | **Powershell** | Schulungs ID und Zertifikate LinkedIN |
 | **Python** | Schulungs ID und Zertifikate LinkedIN |
-| **KI / AI** | CahtGPT - Agent Erstellung und Promting | Micrososft Copilot Zertifikat | Linked IN Zertifikate | Schulungs ID Udemy
+| **KI / AI** | CahtGPT - Agent Erstellung und Promting | 
+| **Using M365 Copilot** | https://learn.microsoft.com/api/achievements/share/de-de/GruberBerndBilfinger-5730/9RF6QFXU?sharingId=AE378B849E92C129 | 
+| **Optimize M365 Copilot** | https://learn.microsoft.com/api/achievements/share/de-de/GruberBerndBilfinger-5730/FQ2WJ22X?sharingId=AE378B849E92C129 | 
 
 ---
 
