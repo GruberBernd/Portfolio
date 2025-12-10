@@ -24,17 +24,18 @@ Ich bringe [Anzahl] Jahre Erfahrung in [Bereich] mit und bin stets auf der Suche
 
 ---
 
-## 🛠️ Meine Tech-Stack-Schwerpunkte
+## 🛠️ My Technical expertise
 
 Nutze ich täglich im Job und Privat
 
 | Bereich | 🔑 Tools | 
 | :--- | :--- |
 | **Service Tools für Enduser** | ServiceNow Ticketsystem, BeyondTrust Remote Tool, |
-| **Microsoft** | Microsoft 365 Enterprise und Standard Apps |
-| **Server / Cloud** | Active Directiory, Remotedesktopverbindung zu Windows Server, |
+| **Microsoft** | Microsoft 365 Enterprise inkl zugehörigen Apps | 
+| **Server / Cloud** | Active Directiory, Remotedesktopverbindung - Windows Server,  |
 | **Assetmanagement** | ServiceNow |
 
+---
 
 Zertifikate und Weitebildung
 
@@ -43,7 +44,7 @@ Zertifikate und Weitebildung
 | **Azure AZ-104** | Zertifikats ID |
 | **Powershell** | Schulungs ID und Zertifikate LinkedIN |
 | **Python** | Schulungs ID und Zertifikate LinkedIN |
-| **KI / AI** | CahtGPT - Agent Erstellung und Promting | 
+| **KI / AI** | CahtGPT - Agent creation and prompting , https://media.licdn.com/dms/image/v2/D5622AQETPjitL5T4GA/feedshare-shrink_1280/B56Zhl6uMGHUAk-/0/1754056549385?e=1767225600&v=beta&t=GiJKdbJE-30PzwDXpNzpCiXm_NDXyMh-6DQXUDm8xg4 |
 | **Using M365 Copilot** | https://learn.microsoft.com/api/achievements/share/de-de/GruberBerndBilfinger-5730/9RF6QFXU?sharingId=AE378B849E92C129 | 
 | **Optimize M365 Copilot** | https://learn.microsoft.com/api/achievements/share/de-de/GruberBerndBilfinger-5730/FQ2WJ22X?sharingId=AE378B849E92C129 | 
 
@@ -59,9 +60,11 @@ Diese Projekte demonstrieren am besten mein Angagement über meinen Tätigkeitsb
 * **On Top** Die Region Österreich mit ca 600 Clients war die erste Region von DACH --> all meine Vorlagen, Fehlerbeerichte, Lösungsansätze. Info Mail, Installationsanleitung wurde für das Rollout der anderen Regionen verwendet
 * **Live-Demo:** 
 
+---
+
 ### 2. 📊 Mitarbeiter Einschulungen im Bereich IT
 * **Tätigkeit** Verantwortlicher: Einweisung und Betreuung von Praktikanten, Einschulung von IT-Mitarbeitern und Betreuung in der ersten Eingewöhnungszeit 
-* **Technologien:** [Python] | [Django] | [AWS S3]
+* **To Do** Vorbereitung Client, Softwarezuweisungen, Einführung in Software und Hardware
 * **Repo:** [Link zur Projekt-Repository]
 
 ### 3. Asset Management / Client Managemnt / MDM Intune
@@ -77,7 +80,6 @@ Ich bin offen für neue Kooperationen und spannende Diskussionen!
 
 * 📧 **E-Mail:** bootnet_bernd@outlook.de
 * 💼 **LinkedIn:** www.linkedin.com/in/bernd-gruber-778908272
-* 📸 **Instagram:** [Link zu Ihrem Instagram-Profil]
 * 🌐 **Persönliche Website (optional):** [Link zu Ihrer persönlichen Portfolio-Webseite]
 
 ---
