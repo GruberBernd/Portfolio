@@ -44,11 +44,12 @@ Zertifikate und Weitebildung
 | Bereich | 🔑 Zertifikate, Bescheinigungen  |
 | :--- | :--- |
 | **Azure AZ-104** | Zertifikats ID |
-| **Powershell** | Schulungs ID und Zertifikate LinkedIN |
-| **Python** | Schulungs ID und Zertifikate LinkedIN |
-| **KI / AI** | CahtGPT - Agent creation and prompting , https://media.licdn.com/dms/image/v2/D5622AQETPjitL5T4GA/feedshare-shrink_1280/B56Zhl6uMGHUAk-/0/1754056549385?e=1767225600&v=beta&t=GiJKdbJE-30PzwDXpNzpCiXm_NDXyMh-6DQXUDm8xg4 |
+| **Powershell** | Schulungs ID und Zertifikate, Udemy |
+| **Python** | Schulungs ID und Zertifikate, Udemy |
+| **LinkedIn - KI / AI** | CahtGPT - Agent creation and prompting , https://media.licdn.com/dms/image/v2/D5622AQETPjitL5T4GA/feedshare-shrink_1280/B56Zhl6uMGHUAk-/0/1754056549385?e=1767225600&v=beta&t=GiJKdbJE-30PzwDXpNzpCiXm_NDXyMh-6DQXUDm8xg4 |
 | **Using M365 Copilot** | https://learn.microsoft.com/api/achievements/share/de-de/GruberBerndBilfinger-5730/9RF6QFXU?sharingId=AE378B849E92C129 | 
 | **Optimize M365 Copilot** | https://learn.microsoft.com/api/achievements/share/de-de/GruberBerndBilfinger-5730/FQ2WJ22X?sharingId=AE378B849E92C129 | 
+| **LinkedIn - Azure AI** | Microsoft Azure AI Essentials: Workloads and Machine Learning on Azure, https://media.licdn.com/dms/image/v2/D4D22AQHoTP20ulf7tg/feedshare-shrink_1280/B4DZg68t6JHAAs-/0/1753335652266?e=1767225600&v=beta&t=LgyT01yYy7PS0pg-jH0rjv9XQXOBIGa-rDMf5wOBwlI
 
 ---
 
@@ -87,6 +88,8 @@ Ich bin offen für neue Kooperationen und spannende Diskussionen!
 ---
 
 <p align="center">
-    <i>Code mit Leidenschaft, deploye mit Präzision.</i>
-</p># Portfolio
-Portfolio und Zertifikate
+    <i>Meine Leidenschaft liegt in AI, Vernetzung und Digitalisierung.</i>
+</p># 
+*{!False}                                                                                                                                                                                                                                                                      
+*//it's funny
+*//because it's true
