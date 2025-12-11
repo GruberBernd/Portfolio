@@ -1,7 +1,7 @@
   🌟 Mein Digitales Portfolio
 
 <div align="center">
-    <img src="https://media.licdn.com/dms/image/v2/D4D03AQEbklM5ifn9zA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1689193569922?e=1767225600&v=beta&t=FZpjRveVfPY6q0ZkLnbgvQz2-1lg2wht4gnR2givhRA" width="150px;" alt="Gruber Bernd" style="border-radius:50%; border: 4px solid #007ACC;"/>
+    <img src="https://media.licdn.com/dms/image/v2/D4D03AQE4xWZlcyyfrw/profile-displayphoto-crop_800_800/B4DZsNqLZ3LcAI-/0/1765460722666?e=1767225600&v=beta&t=DDJn6-xEsWrNU2jkRISVa8KPJ2Hndi7h9R4J8TlEmI0" width="150px;" alt="Gruber Bernd" style="border-radius:50%; border: 4px solid #007ACC;"/>
     <br/>
     
       👋 Hallo und Willkommen auf meiner seite.
